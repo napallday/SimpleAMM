@@ -10,5 +10,12 @@ out/
 # Docs
 docs/
 
+# vscode
+.vscode/
+
 # Dotenv file
 .env
+
+/out/
+/lib/
+

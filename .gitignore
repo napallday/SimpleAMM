@@ -12,7 +12,7 @@ docs/
 
 # vscode
 .vscode/
-
+.DS_Store
 # Dotenv file
 .env
 

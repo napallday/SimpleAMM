@@ -33,7 +33,7 @@
 5. **Migration Scripts**
 
    - Deploy a new contract and upgrade the storage contract
-   - See [Migration_Guide.pdf](./Migration_Guide.pdf)
+   - See [Migration_Guide.md](./Migration_Guide.md)
 
 ### Core Features
 
@@ -263,7 +263,7 @@ The AMM implements a constant product formula with several optimizations:
    ```
 
 2. **Upgrade & Migration**
-   - See [Migration_Guide.pdf](./Migration_Guide.pdf)
+   - See [Migration_Guide.md](./Migration_Guide.md)
 
 ### Integration Guide
 
